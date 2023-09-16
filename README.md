@@ -1,9 +1,9 @@
 
-# React Weather App - HootBoard
+# Cloud_Captain
 This is a simple ReactJS weather application that displays the current weather conditions for a given location.
 
 ## Live Link
-[https://weatherapp-hootboard.netlify.app/](https://weatherapp-hootboard.netlify.app/) 
+[https://cloudcaptain.netlify.app/]
 
 
 
@@ -13,13 +13,13 @@ This is a simple ReactJS weather application that displays the current weather c
 Clone the project
 
 ```bash
-  git clone https://github.com/jaiswalashutosh/react-weather-app.git
+  git clone https://github.com/suryakant018/Cloud_Captain
 ```
 
 Go to the project directory
 
 ```bash
-  cd react-weather-app
+  cd project_dir
 ```
 
 Install dependencies
